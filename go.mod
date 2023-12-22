@@ -161,7 +161,7 @@ require (
 	k8s.io/cri-api v0.29.0-alpha.0
 	k8s.io/klog/v2 v2.100.1
 	k8s.io/kubectl v0.25.0
-	k8s.io/kubernetes v1.27.9
+	k8s.io/kubernetes v1.27.5
 	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2
 	sigs.k8s.io/yaml v1.3.0
 )
